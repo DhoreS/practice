@@ -1,3 +1,6 @@
 Welcome to gitHub 
 
 userName- DhoreS
+
+
+changes done part1
